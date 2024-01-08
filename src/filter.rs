@@ -1,3 +1,4 @@
+
 use regex::{Regex, Error};
 
 pub struct LogFilter {
